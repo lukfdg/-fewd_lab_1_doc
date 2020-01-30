@@ -1,2 +1,5 @@
 var firstName = "Lucas";
-console.log (firstName);
+console.log ("My name is " + firstName);
+
+var favouriteColor = "Blue";
+console.log ("And my favourite color is " + favouriteColor);
