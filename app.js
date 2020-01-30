@@ -1,2 +1,2 @@
-var fName = "Lucas";
-console.log (fName);
+var firstName = "Lucas";
+console.log (firstName);
